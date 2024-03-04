@@ -1,0 +1,56 @@
+/* #divStyle {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+} */
+
+#productspan {
+    margin-left: 3%;
+}
+
+#descriptionspan {
+    margin-left: 3%;
+}
+
+#pricespan {
+    margin-left: 3%;
+}
+
+/* #updbtn,
+#delbtn {
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+}
+
+#updbtn {
+    background-color: #33ff3a;
+    right: 8%;
+}
+
+#delbtn {
+    background-color: #ff3333;
+    right: 17%;
+} */
+
+/* button {
+    font-size: 16px;
+    background-color: #33ff5f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+/* button:hover {
+    background-color: #cc0000;
+} */
+
+/* h1 {
+    color: #ff0000;
+    border: 5px solid;
+    text-align: center;
+} */
