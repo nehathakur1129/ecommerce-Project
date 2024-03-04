@@ -1,0 +1,11 @@
+#divid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product {
+    width: calc(20% - 20px); /* Adjust the width based on your preference */
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
